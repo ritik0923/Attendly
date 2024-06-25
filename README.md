@@ -1,4 +1,4 @@
-#Attendly: Automatic Attendance System
+# Attendly: Automatic Attendance System
 Project Overview
 Attendly is an attendance management application developed as a 5th Semester project. It leverages Python, PyCharm, HTML, and CSS technologies to automate the process of taking attendance. The system uses webcam functionality to capture images of individuals and maintains attendance records in CSV format.
 
