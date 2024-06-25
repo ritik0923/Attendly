@@ -35,6 +35,6 @@ Viewing Records: Attendance records can be viewed and managed through the user i
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the project's coding standards and include appropriate documentation.
 
 # Contact
-For any questions or suggestions, feel free to reach out to me at your.email@example.com.
+For any questions or suggestions, feel free to reach out to me at your.ritikraushan54321@gmail.com.
 
 Thank you for checking out Attendly! I hope you find it useful and easy to use. Your feedback and contributions are highly appreciated!
